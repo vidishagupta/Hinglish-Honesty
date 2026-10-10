@@ -71,7 +71,7 @@ Numbers come from `results.csv`. See the notebook for charts and the full breakd
 ## Files
 
 - `dataset.json`: the tasks
-- `results.csv`: every model response and its label
+- `result.csv`: every model response and its label
 - Kaggle notebook: code, charts, analysis
 
 ## How to run
